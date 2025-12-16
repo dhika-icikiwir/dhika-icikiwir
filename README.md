@@ -1,4 +1,4 @@
-# Hi there 👋
+# Halo Semua! 👋
 
 Halo! Saya **Dhika Dipta** 👨‍💻
 Siswa **SMK Hikmah Yapis Jayapura** yang tertarik dan fokus di bidang **Web Development**.
